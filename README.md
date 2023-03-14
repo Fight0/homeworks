@@ -10,6 +10,7 @@
 Примеры учебных заданий:
 
 1) [Статистика](https://github.com/Fight0/homeworks/blob/35c42a9482b4b179765eda15aaf7b367551897c5/statistics/hw_case_study.ipynb)
+
 2) [Pandas](https://github.com/Fight0/homeworks/blob/35c42a9482b4b179765eda15aaf7b367551897c5/np_pd_mpl/hw_3.ipynb)
 
 Свои мини-проекты:
